@@ -1,0 +1,13 @@
+{
+  "showThemeCredit": true,
+  "name": "Klassiska Sagor",
+  "shortDesc": "En stor samling av klassiska sagor för barn.",
+  "url": "https://sagor.org",
+  "authorEmail": "",
+  "authorHandle": "@bjorn_js",
+  "authorName": "Björn Söderqvist",
+  "enableThirdPartyComments": false,
+  "maxPostsPerPage": 5,
+  "paymentPointer": "",
+  "faviconPath": "/images/favicon.png"
+}
