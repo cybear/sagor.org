@@ -1,7 +1,7 @@
 –––
 categories: []
 tags: [Sagor från Norge]
-title: 'Pannkakan'
+title: 'Sagan om den tjocka feta Pannkakan'
 –––
 
 Det var en gång en bondhustru som hade sju hungriga barn. Och åt dem höll hon på att grädda en pannkaka. Den låg nu i laggen och fräste, så tjock och god att det var en lust att se. Barnen stod runt omkring och gammelfarfar satt och såg på.
