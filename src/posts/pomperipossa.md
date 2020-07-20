@@ -2,7 +2,7 @@
 categories: []
 tags: [Axel Wallengren, Min Skattkammare]
 title: 'Sagan om Pomperipossa med den långa näsan'
-spotify_url: https://open.spotify.com/track/1ZweyRQzhPyWhbJkKbOe4r?si=-f5LuxY-Q662ocn-6DaZFA
+spotify_id: 1ZweyRQzhPyWhbJkKbOe4r
 ---
 
 Det var en gång för många, många tusen år sen en förfärligt gammal trollpacka, som hette Pomperipossa. Det är inte precis något vackert namn, men ändå är det bra mycket vackrare, än vad hon själv var. Kan ni tänka er, hur hon såg ut? Hon hade två små röda ögon och en stor mun med bara tre tänder i. Och hon hade fullt med vårtor på händerna och en stor puckel på ryggen. Men det värsta var hennes näsa, för den var en hel aln lång. Ni kan tänka er, hur mycket snus, som gick åt, när hon snusade! Ett helt skålpund åt gången!

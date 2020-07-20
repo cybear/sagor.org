@@ -1,7 +1,7 @@
 ---
 categories: []
 tags: [Sagor från Norge]
-spotify_url: https://open.spotify.com/track/6cbRENjtBkWKgnue4m4NGl?si=Xf-kywuRREKl99dDU7RwhA
+spotify_id: 6cbRENjtBkWKgnue4m4NGl
 title: 'De tre Bockarna Bruse'
 ---
 
