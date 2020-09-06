@@ -4,5 +4,8 @@
     {% if introSummary %}
       <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
     {% endif %}
+    {% if spotify_id %}
+      <iframe src="https://open.spotify.com/embed/track/{{ spotify_id }}" width="320" height="80" frameborder="0" allowtransparency="true"></iframe>
+    {% endif %}
   </div>
 </header>

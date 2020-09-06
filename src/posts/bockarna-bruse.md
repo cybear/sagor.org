@@ -1,7 +1,8 @@
 ---
 categories: []
 tags: [Sagor från Norge]
-title: 'Bockarna Bruse'
+spotify_id: 6cbRENjtBkWKgnue4m4NGl
+title: 'De tre Bockarna Bruse'
 ---
 
 Det var en gång tre bockar, som skulle gå till ängen och äta sig feta. Alla tre hette Bocken Bruse. På vägen var det en bro över en fors, som de måste över, och under den bron bodde ett otäckt troll med ögon som tenntallrikar och näsa lång som ett räfseskaft.
